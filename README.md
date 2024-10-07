@@ -36,9 +36,6 @@ func main() {
 
 To start coding in Go:
 
-1. **Install Go:** Download it from the official ```markdown
-
-[Go website](URL "[Title](https://go.dev/dl/)" target="_blank")
-.
+1. **Install Go:** Download it from the official <a href="https://go.dev/dl/" target="_blank">Go website</a>.
 2. **Write your code:** Save your program in a `.go` file.
 3. **Run it:** Use the `go run` command to execute the file.
